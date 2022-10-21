@@ -1,0 +1,15 @@
+C:\Users\wayne\code\Lab6WayneBlaylock\bin\Debug\net6.0\Lab6WayneBlaylock.exe
+C:\Users\wayne\code\Lab6WayneBlaylock\bin\Debug\net6.0\Lab6WayneBlaylock.deps.json
+C:\Users\wayne\code\Lab6WayneBlaylock\bin\Debug\net6.0\Lab6WayneBlaylock.runtimeconfig.json
+C:\Users\wayne\code\Lab6WayneBlaylock\bin\Debug\net6.0\Lab6WayneBlaylock.dll
+C:\Users\wayne\code\Lab6WayneBlaylock\bin\Debug\net6.0\Lab6WayneBlaylock.pdb
+C:\Users\wayne\code\Lab6WayneBlaylock\obj\Debug\net6.0\Lab6WayneBlaylock.csproj.AssemblyReference.cache
+C:\Users\wayne\code\Lab6WayneBlaylock\obj\Debug\net6.0\Lab6WayneBlaylock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wayne\code\Lab6WayneBlaylock\obj\Debug\net6.0\Lab6WayneBlaylock.AssemblyInfoInputs.cache
+C:\Users\wayne\code\Lab6WayneBlaylock\obj\Debug\net6.0\Lab6WayneBlaylock.AssemblyInfo.cs
+C:\Users\wayne\code\Lab6WayneBlaylock\obj\Debug\net6.0\Lab6WayneBlaylock.csproj.CoreCompileInputs.cache
+C:\Users\wayne\code\Lab6WayneBlaylock\obj\Debug\net6.0\Lab6WayneBlaylock.dll
+C:\Users\wayne\code\Lab6WayneBlaylock\obj\Debug\net6.0\refint\Lab6WayneBlaylock.dll
+C:\Users\wayne\code\Lab6WayneBlaylock\obj\Debug\net6.0\Lab6WayneBlaylock.pdb
+C:\Users\wayne\code\Lab6WayneBlaylock\obj\Debug\net6.0\Lab6WayneBlaylock.genruntimeconfig.cache
+C:\Users\wayne\code\Lab6WayneBlaylock\obj\Debug\net6.0\ref\Lab6WayneBlaylock.dll
